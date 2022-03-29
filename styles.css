@@ -6,7 +6,7 @@ body {
 }
 
 
-* {
+body * {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -16,7 +16,7 @@ a:link {
     text-decoration: none;
   }
 
-  a:hover {
+a:hover {
     background-color: #c37b7b;
   }
 
